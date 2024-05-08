@@ -56,14 +56,14 @@ It organises the file system in a tree structure and managesthe database by a **
 ### Server Side Setup
 1. **Install Dependencies**: 
    ```bash
-   cd teaching-tree/server
+   cd digital-teaching-tree/server
    npm install
    ```
 
 ### Client Side Setup
 1. **Install Dependencies**: 
    ```bash
-   cd teaching-tree/client
+   cd digital-teaching-tree/client
    npm install
    ```
 
@@ -85,14 +85,14 @@ It organises the file system in a tree structure and managesthe database by a **
 ### Server
 1. **Start Server**: 
    ```bash
-   cd teaching-tree/server
+   cd digital-teaching-tree/server
    node server.js
    ```
 
 ### Client
 1. **Start Client Application**: 
    ```bash
-   cd teaching-tree/client
+   cd digital-teaching-tree/client
    npm start
    ```
 
