@@ -1,4 +1,4 @@
-# Digital File Tree Management
+# Teaching Tree Project
 
 ## Problem Set - 1
 ### Problem Statement -
@@ -16,7 +16,7 @@ Problem Set 1 - A school has decided to go completely with digital teaching. Cre
 * For testing create a dummy tree with at-least 1000 nodes in the collection.
 
 ## Description
-This Digital File Tree Management project is a teaching resource management platform designed for schools to organize educational materials in a hierarchical tree structure. Teachers can create folders for each subject, with each subject containing lessons, modules, and workbooks. This project aims to provide a user-friendly interface for teachers to manage and organize teaching materials efficiently.
+The Teaching Tree project is a digital teaching platform designed for schools to organize educational materials in a hierarchical tree structure. Teachers can create folders for each subject, with each subject containing lessons, modules, and workbooks. This project aims to provide a user-friendly interface for teachers to manage and organize teaching materials efficiently.
 
 It organises the file system in a tree structure and managesthe database by a **Nested Set Model**.
 
